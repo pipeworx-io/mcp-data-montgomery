@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-montgomery",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "DataMontgomeryCountyMD MCP — Montgomery County, MD open data (data.montgomerycountymd.gov, Socrata SODA API).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-143e3e2c77f4199e9d9ec7801f07a955560e405abe0790132312f7a8af07138a",
-    "sourceCommit": "56d3c46c09bb3078ffdbdbca992a93f406bcd382"
+    "sourceHash": "v1-e5872f97d724766d00a9dddc16d3683809e51faf73b8e436d159523d9bc728b8",
+    "sourceCommit": "8355bf3d1eece256a62a89dba2278e7a77bebe07"
   }
 }
